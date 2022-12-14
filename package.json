@@ -35,7 +35,7 @@
     "eslint-plugin-react": "^7.24.0",
     "eslint-plugin-react-hooks": "^4.2.0",
     "expect": "^21.0.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "jest-mock": "^21.0.6",
     "jsonfile": "^6.1.0",
     "karma": "^6.3.4",
